@@ -7,7 +7,7 @@ namespace MVCFirstproject.Models
 {
     public class Employee 
     {
-        public int EmployeeId 
+        public int EmployeeId
         {
             get;
             set; 
